@@ -1,1 +1,1 @@
-# weather
+# weather application using AccuWeather API
